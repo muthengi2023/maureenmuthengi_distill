@@ -5,9 +5,16 @@
       "title": "Maureen Muthengi",
       "description": "My website\n",
       "author": [],
-      "contents": "\n\nAbout me:\n\n\n\n",
-      "last_modified": "2024-08-01T08:59:21-04:00"
+      "contents": "\n\nAbout me\nMy name is Maureen Muthengi, and I am a dynamic and accomplished professional with a robust background in data science, public policy, and information technology. I am currently pursuing a Master of Science in Data Science and Analytics from Grand Valley State University, adding to my Bachelor of Science in Information Technology from Jomo Kenyatta University of Agriculture and Technology.\nWith extensive experience at the United Nations High Commissioner for Refugees (UNHCR), I have honed my skills in data extraction, analysis, and visualization using tools such as Microsoft PowerBI, Tableau, R, SQL, and Python. I am adept at project management, stakeholder collaboration, and leadership, with a demonstrated ability to deliver actionable insights and drive decision-making processes. My expertise also extends to IT support, LAN configuration, and troubleshooting.\nDuring my tenure as a Resettlement Associate at UNHCR from 2009 to 2023, I analyzed refugee resettlement data, prepared statistical reports, managed refugee submissions and departure statistics, and designed data collection tools for the Education Department. Additionally, I have been leading the “Donate a Pad Initiative” in Kitui, Kenya since 2012, which aims to support girls in primary and high schools by providing sanitary towels and mentorship.\nMy commitment to continuous learning and professional growth is reflected in my professional certificates, including the Google Data Analytics Professional Certificate and the 10Alytics Data and Strategy certificate. I am also actively involved in various volunteer activities, such as being a data analyst for the Citizen’s Climate Lobby, Vice President of the African Student Council at Grand Valley State University, and a member of the Women in Computing Club and the International Public Policy Association.\nI have presented papers at international conferences, received recognition for my service to UNHCR, and served as a board member and keynote speaker on various occasions. I am passionate about leveraging my skills and experiences to contribute positively to society and drive impactful change through data-driven decision-making.\n\n\n\n",
+      "last_modified": "2024-08-01T09:11:03-04:00"
+    },
+    {
+      "path": "project.html",
+      "title": "STA 631 Project",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-08-01T09:11:03-04:00"
     }
   ],
-  "collections": []
+  "collections": ["project/project.json"]
 }
