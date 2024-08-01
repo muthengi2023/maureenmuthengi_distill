@@ -1,0 +1,13 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Maureen Muthengi",
+      "description": "My website\n",
+      "author": [],
+      "contents": "\n{width = 50}\nAbout me:\n\n\n\n",
+      "last_modified": "2024-08-01T08:51:00-04:00"
+    }
+  ],
+  "collections": []
+}

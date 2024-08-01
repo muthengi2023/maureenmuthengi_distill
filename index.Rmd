@@ -1,0 +1,16 @@
+---
+title: "Maureen Muthengi"
+description: |
+  My website
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+![](Maureen_Muthengi.JPG){width = 50}
+
+## About me:
+
